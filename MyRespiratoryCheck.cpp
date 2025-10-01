@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"Thang cho backi";
+    cout<<"Thang cho hung"<<endl;
     return 0;
 }
